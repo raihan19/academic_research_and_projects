@@ -1,0 +1,13 @@
+Method,RMSE
+Linear Regression (Train),0.528514054657712
+Linear Regression (Cross validation),0.636949920460634
+Linear Regression (Test),0.598410225335399
+ANN (Train),0.465190490518453
+ANN (Cross validation),1.19736818954035
+ANN (Test),0.596649635752573
+Random Forest (Train),0.371035942917564
+Random Forest (Cross validation),0.506521029559408
+Random Forest (Test),0.467181347658487
+XGBRegressor (Train),0.371608096029194
+XGBRegressor (Cross validation),0.50031433156789
+XGBRegressor (Test),0.567904710426369
